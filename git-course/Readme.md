@@ -1,5 +1,2 @@
-# Course git an github
-
-primeira alteracao
-
-segunda alteracao
+# Git and Github course
+original
